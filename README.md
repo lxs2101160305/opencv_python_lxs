@@ -1,0 +1,2 @@
+# opencv_python_lxs
+学习opencv_python的项目
